@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Engravers Gothic';
+    src: url('EngraversGothic-Bold.eot');
+    src: local('Engravers Gothic Bold'), local('EngraversGothic-Bold'),
+        url('EngraversGothic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('EngraversGothic-Bold.woff2') format('woff2'),
+        url('EngraversGothic-Bold.woff') format('woff'),
+        url('EngraversGothic-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Engravers Gothic';
+    src: url('EngraversGothic.eot');
+    src: local('Engravers Gothic'), local('EngraversGothic'),
+        url('EngraversGothic.eot?#iefix') format('embedded-opentype'),
+        url('EngraversGothic.woff2') format('woff2'),
+        url('EngraversGothic.woff') format('woff'),
+        url('EngraversGothic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
